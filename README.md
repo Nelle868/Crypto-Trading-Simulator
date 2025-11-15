@@ -1,4 +1,4 @@
-# Bitcoin Trading Simulator (CLI)
+# Bitcoin Trading Simulator
 
 A simple Python command-line Bitcoin trading simulator that uses live BTC–USD prices from Coinbase. You can check the current price, buy and sell BTC with a virtual balance, and review your trade history.
 
